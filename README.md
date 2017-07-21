@@ -22,7 +22,7 @@ makeblastdb -in R_113.fasta -dbtype nucl -parse_seqids -out ./blast_databases/R_
 2. Blast sequence -MgrB gene- using kmer_blaster (included in example folder)
 
 ```
-/anaconda2/bin/python kmer_blaster.py -db ./R_113/R_113 -q ./MrgB.gene -o ./bla_gff/R_113.bla
+/anaconda2/bin/python kmer_blaster.py -db ./R_113/R_113 -q ./MrgB.gene -o ./bla_gff/R_113.bla -p 100
 ```
 
 Intersections output created using
