@@ -1,0 +1,2 @@
+name	product	total_overlap	genome_count	start_avg	start_stdev	end_avg	end_stdev	length_avg
+Between(kdgR_2, feoB_1)	Between(Transcriptional regulator KdgR, Fe(2+) transporter FeoB)	144	1	126778	NaN	127155	NaN	377
