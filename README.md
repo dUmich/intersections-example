@@ -1,5 +1,6 @@
 # intersections-example
-Example folder for intersections 
+Example folder for intersections (https://github.com/PlasmaPower/intersections)
+
 This is an example of one way to use intersections, finding the location of an unlabeled gene. We are searching the known colistin 
 resistance gene MgrB against a colistin resistant genome to see where it resides.
 
